@@ -1,0 +1,6 @@
+{
+    "restructuredtext.confPath": "",
+    "python.pythonPath": "/Users/manishsahu/miniconda3/envs/py3/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
