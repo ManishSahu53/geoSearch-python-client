@@ -7,7 +7,7 @@ from setuptools import find_packages, setup
 with open('README.rst', encoding='utf-8') as f:
     long_description = f.read()
 
-with open('cogconverter/VERSION') as version_file:
+with open('geoSearch/VERSION') as version_file:
     __version__ = version_file.read().strip()
 
 setup(name='geoSearch',
